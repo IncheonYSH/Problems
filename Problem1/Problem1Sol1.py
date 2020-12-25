@@ -1,7 +1,4 @@
 
-n = 100000
-m = 6
-
 def pi(N):
     Nstr = str(N)
     a = 1
@@ -15,7 +12,11 @@ def f(N):
         b = pi(b)
     return(b)
 
+
+n = 100000
+m = 6
 nn = []
+
 for i in range(1, n):
     if f(i) == m:
         nn.append(i)
@@ -24,4 +25,3 @@ for i in range(1, n):
 
 Answer = sum(nn)
 print(Answer)
-
