@@ -7,7 +7,8 @@ Let __*ϕ(n)*__ be the product of each digit of the positive integer __*n*__. If
 ![limit](./Problem1/limit.PNG)
 
 For example, when __*n* = 86__
-<center><b> 86 → 48 → 32 → 6 → 6 → ⋯ </b></center>
+<center><b>86 → 48 → 32 → 6 → 6 → ⋯</b></center>
+
 So,  __*f*(86) = 6__
 Find the sum of all the values of the positive integer __*n*__ less than 100000 with  __*f(n)* = 6__
 
