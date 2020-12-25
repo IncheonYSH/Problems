@@ -1,4 +1,12 @@
-![Problem1](./Problem1/Problem1.PNG)
+양의 정수 __*n*__의 각 자리수의 곱을 __*ϕ(n)*__이라고 하자. __*n*__에 __*ϕ*__를 충분히 많이 적용을 하면 한 자리 자연수가 되는데, 이를 함수 __*f(n)*__이라고 하자.  
+
+![limit](./Problem1/limit.PNG)  
+
+예를 들어, __*n* = 86__일 때 다음과 같고 __*f*(86) = 6__이다.  
+
+![Example](./Problem1/Example.PNG)  
+
+__*f(n)* = 6__인 100000 보다 작은 양의 정수 *n*을 모두 합한 값을 구하여라.
 
 -----
 
@@ -15,6 +23,5 @@ Find the sum of all the values of the positive integer __*n*__ less than 100000 
 
 -----
 
-
- My answer: 286432508
+##### My answer: 286432508
 
