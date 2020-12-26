@@ -23,5 +23,5 @@ Find the sum of all the values of the positive integer __*n*__ less than 100000 
 
 -----
 
-##### My answer: 286432508
+### My answer: 286432508
 

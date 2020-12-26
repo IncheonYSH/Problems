@@ -6,4 +6,4 @@ Find the sum of any positive integer less than 1000000 that is a multiple of 7 a
 
 ---
 
-##### My Answer: 7145992329
+### My Answer: 7145992329
