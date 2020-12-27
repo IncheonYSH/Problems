@@ -4,7 +4,7 @@
 
 ---
 
-The fraction ![frac](./Problem3/fracslice.PNG) satisfies the following condition. (However, __*n*__ and __*m*__ are positive integers that are mutually prime.)  
+The fraction __*n*__ / __*m*__ satisfies the following condition. (However, __*n*__ and __*m*__ are positive integers that are mutually prime.)  
 
 ![frac](./Problem3/frac.PNG)  
 Find the value of __*n+m*__ with the smallest __*m*__.  
