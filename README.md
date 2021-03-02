@@ -17,4 +17,6 @@
 * Problem 11: https://programmers.co.kr/learn/courses/30/lessons/42586
 * Problem 12: https://programmers.co.kr/learn/courses/30/lessons/70129
 * Problem 13: https://programmers.co.kr/learn/courses/30/lessons/68645
+* Problem 14: https://programmers.co.kr/learn/courses/30/lessons/42587
+* Problem 15: https://programmers.co.kr/learn/courses/30/lessons/42577
 
